@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=1EF79A&background=FFFFFF00&multiline=true&width=430&lines=Sorawit+Saetan;Engineer)](https://git.io/typing-svg)[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sorawit-sa) [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:sorawitt@ais.co.th)
+
 ## Programming Skill... 
 
 Currently working with:
